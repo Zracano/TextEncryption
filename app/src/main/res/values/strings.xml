@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TextEncryption</string>
+    <string name="EncryptedMessage"/>
 </resources>
